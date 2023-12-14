@@ -1,0 +1,9 @@
+{
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "cSpell.words": [
+    "Pokeman",
+    "pokemans",
+    "Pokemons"
+  ],
+}
